@@ -1,2 +1,2 @@
 ====== PROJECT MANAGEMENT DEPLOYED LINK ======
-https://myprj-frontend-task-qkp3.vercel.app/
+https://task-frontend-oh4jz5q12-pranithi2007.vercel.app/
